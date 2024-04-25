@@ -1,16 +1,13 @@
-### Hi there 👋
+![cabecera](https://github.com/sergioIbz/assets/blob/master/revolution%201.png?raw=true)
 
-<!--
-**sergioIbz/sergioIbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Sergio Ibañez](https://www.linkedin.com/in/sergioibz/ "LinkedIn")
 
-Here are some ideas to get you started:
+>Desarrollador dedicado a Flutter, enfocado en crear experiencias móviles de calidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|[Recorte](https://github.com/sergioIbz/recorte)|[Giroscopio](https://github.com/sergioIbz/osaka)|
+|------------|------------|
+|![imagen](https://github.com/sergioIbz/assets/raw/master/animaciones/recorte.gif)|![image](https://github.com/sergioIbz/assets/blob/master/animaciones/giroscopio.gif?raw=true)|
+
+|[circular animation](https://github.com/sergioIbz/circular_animation)|[SlideShow](https://github.com/sergioIbz/slideshow)|
+|------------|-------------|
+|![image](https://github.com/sergioIbz/assets/raw/master/animaciones/arc.gif)|![image](https://github.com/sergioIbz/assets/raw/master/animaciones/slide.gif)|
