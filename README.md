@@ -10,4 +10,4 @@
 
 |[circular animation](https://github.com/sergioIbz/circular_animation)|[SlideShow](https://github.com/sergioIbz/slideshow)|
 |------------|-------------|
-|![image](https://github.com/sergioIbz/assets/raw/master/animaciones/arc.gif)|![image](https://github.com/sergioIbz/assets/raw/master/animaciones/slide.gif)|
+|![image](https://firebasestorage.googleapis.com/v0/b/assets-72146.appspot.com/o/arc.gif?alt=media&token=50501e3a-7d95-4f57-9e63-bcebd1df947f)|![image](https://github.com/sergioIbz/assets/raw/master/animaciones/slide.gif)|
