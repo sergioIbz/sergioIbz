@@ -30,21 +30,45 @@
 
 </div>
 
-## Educación
-
 
 
 <br>
 
 <div align="center">
-  <h3>Portafolio Visual</h3>
-
-| [Recorte](https://github.com/sergioIbz/recorte) | [Giroscopio](https://github.com/sergioIbz/osaka) |
-| :---: | :---: |
-| ![imagen](https://github.com/sergioIbz/assets/raw/master/animaciones/recorte.gif) | ![image](https://github.com/sergioIbz/assets/blob/master/animaciones/giroscopio.gif?raw=true) |
-
-| [Circular Animation](https://github.com/sergioIbz/circular_animation) | [SlideShow](https://github.com/sergioIbz/slideshow) |
-| :---: | :---: |
-| ![image](https://github.com/sergioIbz/assets/raw/master/animaciones/arc.gif?raw=true) | ![image](https://github.com/sergioIbz/assets/raw/master/animaciones/slide.gif) |
-
+  <h2>🚀 Portafolio Visual</h2>
 </div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>Recorte</h3>
+      <a href="https://github.com/sergioIbz/recorte">
+        <img src="https://github.com/sergioIbz/assets/raw/master/animaciones/recorte.gif" alt="Recorte" width="270" height="480"/>
+      </a>
+      <p><em>Herramienta de recorte y edición de imágenes</em></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Giroscopio</h3>
+      <a href="https://github.com/sergioIbz/osaka">
+        <img src="https://github.com/sergioIbz/assets/blob/master/animaciones/giroscopio.gif?raw=true" alt="Giroscopio" width="270" height="480"/>
+      </a>
+      <p><em>Animación interactiva con giroscopio</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Circular Animation</h3>
+      <a href="https://github.com/sergioIbz/circular_animation">
+        <img src="https://github.com/sergioIbz/assets/raw/master/animaciones/arc.gif?raw=true" alt="Circular Animation" width="270" height="480"/>
+      </a>
+      <p><em>Animaciones circulares personalizables</em></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>SlideShow</h3>
+      <a href="https://github.com/sergioIbz/slideshow">
+        <img src="https://github.com/sergioIbz/assets/raw/master/animaciones/slide.gif" alt="SlideShow" width="270" height="480"/>
+      </a>
+      <p><em>Widget de presentación de diapositivas</em></p>
+    </td>
+  </tr>
+</table>
