@@ -22,19 +22,19 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
   <br>
-  **Gestores de Estado:** Riverpod, Bloc, Provider
+  <h3>Gestores de Estado</h3>
 
-  <br>
-  <h3>GitHub Stats</h3>
+  ![Riverpod](https://img.shields.io/badge/Riverpod-2D2D2D?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Bloc](https://img.shields.io/badge/Bloc-8A2BE2?style=for-the-badge&logo=bloc&logoColor=white)
+  ![Provider](https://img.shields.io/badge/Provider-58CC02?style=for-the-badge&logo=flutter&logoColor=white)
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sergioIbz&show_icons=true&theme=radical" alt="Sergio's Github Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioIbz&layout=compact&theme=radical" alt="Top Langs" height="150"/>
-  </p>
 </div>
 
+## Educación
 
 
+
+<br>
 
 <div align="center">
   <h3>Portafolio Visual</h3>
